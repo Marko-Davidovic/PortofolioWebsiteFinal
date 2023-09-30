@@ -17,9 +17,14 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have years of experience and many clients are happy with the
-            projects carried out.
+            Skilled and motivated Frontend Developer with a strong
+            foundation in web development technologies and a keen eye for
+            design. Proficient in crafting visually appealing and user-friendly
+            interfaces while ensuring optimal performance and accessibility.
+            Adept at collaborating with cross-functional teams and passionate
+            about staying up-to-date with the latest industry trends and
+            advancements. Eager to contribute technical expertise and creativity
+            to drive impactful projects and exceed client and user expectations.
           </p>
 
           <a download="" href={CV} className="button button--flex">
