@@ -12,7 +12,7 @@ const Backend = () => {
 
             
             <div>
-              <h3 className="skills__name">Node Js</h3>
+              <h3 className="skills__name">NodeJs</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>
@@ -21,7 +21,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">PHP</h3>
+              <h3 className="skills__name">Express</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>
@@ -30,7 +30,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Python</h3>
+              <h3 className="skills__name">Git</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>
@@ -50,8 +50,8 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Firebase</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">SQL</h3>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
 
@@ -59,8 +59,8 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">SQL</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">Firebase</h3>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
         </div>

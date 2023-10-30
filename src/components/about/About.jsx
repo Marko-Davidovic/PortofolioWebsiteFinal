@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Skilled and motivated Frontend Developer with a strong
+            Skilled and motivated Full Stack Developer with a strong
             foundation in web development technologies and a keen eye for
             design. Proficient in crafting visually appealing and user-friendly
             interfaces while ensuring optimal performance and accessibility.
