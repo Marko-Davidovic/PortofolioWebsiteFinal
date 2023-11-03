@@ -7,6 +7,7 @@ import Work6 from "../../assets/work6.png";
 import Work7 from "../../assets/work7.png";
 import Work8 from "../../assets/work8.png";
 import Work9 from "../../assets/work9.png";
+import Work10 from "../../assets/work10.png";
 
 export const projectsData = [
   {
@@ -15,23 +16,29 @@ export const projectsData = [
     title: "Video Calling app",
     category: "Front-End",
     href:"https://marko-d-video-calling-app.netlify.app/",
+    description: "Technology: React, ZEGOCLOUD, WebRTC ",
+    feature:"Features: Video Calling, Live Chat, Small Setting, Share the link",
     rel:"noopener noreferrer",
     target:"_blank"
   },
   {
     id: 2,
-    image: Work2,
-    title: "Lift",
-    href:"https://marko-davidovic.github.io/Lift/",
+    image: Work3,
+    title: "Fast Food Website",
+    href:"https://sparkling-genie-b202f6.netlify.app/",
+    description: "React, Tailwind",
+    feature:"You can Filter manu by the categories or price",
     category: "Front-End",
     rel:"noopener noreferrer",
     target:"_blank"
   },
   {
     id: 3,
-    image: Work3,
-    title: "Fast Food Website",
-    href:"https://sparkling-genie-b202f6.netlify.app/",
+    image: Work2,
+    title: "Lift",
+    href:"https://marko-davidovic.github.io/Lift/",
+    description: "Technology: Vanila JavaScript, CSS",
+    feature:"Elevator functions",
     category: "Front-End",
     rel:"noopener noreferrer",
     target:"_blank"
@@ -41,7 +48,9 @@ export const projectsData = [
     image: Work4,
     title: "Travel Webiste",
     href:"https://darling-axolotl-74a26f.netlify.app/",
-    category: "Front-End",
+    description: "React, Tailwind",
+    feature:"Mobile responsive Tailwind and image slider on the end",
+    category: "design",
     rel:"noopener noreferrer",
     target:"_blank"
   },
@@ -50,6 +59,8 @@ export const projectsData = [
     image: Work5,
     title: "Matrix Rain",
     href:"https://marko-davidovic.github.io/Matrix-Rain/",
+    description: "JavaScript",
+    feature:"Imitation of Matrix Rain effect and mobile responsive",
     category: "Front-End",
     rel:"noopener noreferrer",
     target:"_blank"
@@ -59,6 +70,8 @@ export const projectsData = [
     image: Work6,
     title: "Search Image app",
     href:"https://marko-davidovic.github.io/Images-Search-app/",
+    description: "JavaScript, API",
+    feature:"Image Search with added button for more search on the end",
     category: "Front-End",
     rel:"noopener noreferrer",
     target:"_blank"
@@ -68,6 +81,8 @@ export const projectsData = [
     image: Work7,
     title: "Music Player",
     href:"https://preeminent-lebkuchen-9d7f2c.netlify.app/",
+    description: "JavaScript",
+    feature:"Simple Music Player",
     category: "Front-End",
     rel:"noopener noreferrer",
     target:"_blank"
@@ -77,6 +92,8 @@ export const projectsData = [
     image: Work8,
     title: "Curency app",
     href:"https://currency-4fa8b.web.app/",
+    description: "React, Material UI, API",
+    feature:"Search button for cryptocurrency",
     category: "Front-End",
     rel:"noopener noreferrer",
     target:"_blank"
@@ -86,7 +103,20 @@ export const projectsData = [
     image: Work9,
     title: "ToDo app",
     href:"https://marko-davidovic-todo-list.netlify.app/",
+    description: "React, Material UI",
+    feature:"Add or Delete Todo, Local Storage, Try to Refresh page and Todo will stay ",
     category: "Front-End",
+    rel:"noopener noreferrer",
+    target:"_blank"
+  },
+  {
+    id: 10,
+    image: Work10,
+    title: "Nike",
+    href:"https://earnest-rolypoly-540817.netlify.app/",
+    description: "React, Tailwind",
+    feature:"Mobile Responsive",
+    category: "design",
     rel:"noopener noreferrer",
     target:"_blank"
   },
@@ -103,7 +133,7 @@ export const projectsNav = [
   {
     name: "Full Stack",
   },
-  // {
-  //   name: "design",
-  // },
+  {
+    name: "design",
+  },
 ];

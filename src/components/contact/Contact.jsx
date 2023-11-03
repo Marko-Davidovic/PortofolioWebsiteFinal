@@ -9,7 +9,7 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      "service_opvopy9",
+      "service_k8sytho",
       "template_jdbamko",
       form.current,
       "fp4-K0lCOcMTRcE4A"
@@ -85,7 +85,7 @@ const Contact = () => {
         </div>
 
         <div className="contact__content">
-          <h3 className="contact__title">Send me your Job Description</h3>
+          <h3 className="contact__title">If you have good oportunity for me </h3>
 
           <form ref={form} onSubmit={sendEmail} className="contact__form">
             <div className="contact__form-div">
@@ -109,13 +109,13 @@ const Contact = () => {
             </div>
 
             <div className="contact__form-div contact__form-area">
-              <label className="contact__form-tag">Job Description</label>
+              <label className="contact__form-tag">Opportunity Description</label>
               <textarea
                 name="Desctiption"
                 cols={30}
                 rows={10}
                 className="contact__form-input"
-                placeholder="If you have Job for me you can send me here "
+                placeholder="Insert Description ... "
               ></textarea>
             </div>
 
