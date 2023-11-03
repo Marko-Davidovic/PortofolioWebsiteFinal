@@ -85,7 +85,7 @@ const Contact = () => {
         </div>
 
         <div className="contact__content">
-          <h3 className="contact__title">If you have good oportunity for me </h3>
+          <h3 className="contact__title">If you have oportunity for me </h3>
 
           <form ref={form} onSubmit={sendEmail} className="contact__form">
             <div className="contact__form-div">
