@@ -8,6 +8,7 @@ import Work7 from "../../assets/work7.png";
 import Work8 from "../../assets/work8.png";
 import Work9 from "../../assets/work9.png";
 import Work10 from "../../assets/work10.png";
+import Work11 from "../../assets/work11.png";
 
 export const projectsData = [
   {
@@ -120,6 +121,17 @@ export const projectsData = [
     rel:"noopener noreferrer",
     target:"_blank"
   },
+  {
+    id: 11,
+    image: Work11,
+    title: "Live Chat",
+    href:"https://live-chat-frebase.netlify.app/",
+    description: "React, Firebase, Tailwind, daisyUI",
+    feature:"Google Authentication, AuthContext.Provider, Private routes ",
+    category: "FullStack",
+    rel:"noopener noreferrer",
+    target:"_blank"
+  },
 ];
 
 // projects
@@ -131,7 +143,7 @@ export const projectsNav = [
     name: "Front-End",
   },
   {
-    name: "Full Stack",
+    name: "FullStack",
   },
   {
     name: "design",
