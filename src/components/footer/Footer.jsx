@@ -32,6 +32,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/marko-davidovic-209a601a3/"
             className="home__social-icon"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <i className="uil uil-linkedin-alt"></i>
           </a>
@@ -40,6 +41,7 @@ const Footer = () => {
             href="https://github.com/Marko-Davidovic"
             className="home__social-icon"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <i className="uil uil-github-alt"></i>
           </a>
@@ -48,6 +50,7 @@ const Footer = () => {
             href="https://www.instagram.com/marko__davidovic/"
             className="home__social-icon"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <i className="uil uil-instagram"></i>
           </a>
