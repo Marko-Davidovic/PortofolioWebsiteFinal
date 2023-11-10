@@ -13,6 +13,17 @@ import Work11 from "../../assets/work11.png";
 export const projectsData = [
   {
     id: 1,
+    image: Work11,
+    title: "Live Chat",
+    href:"https://live-chat-frebase.netlify.app/",
+    description: "React, Firebase, Tailwind, DaisyUI",
+    feature:"Google Authentication, AuthContext.Provider, Private routes ",
+    category: "FullStack",
+    rel:"noopener noreferrer",
+    target:"_blank"
+  },
+  {
+    id: 2,
     image: Work1,
     title: "Video Calling app",
     category: "Front-End",
@@ -23,7 +34,7 @@ export const projectsData = [
     target:"_blank"
   },
   {
-    id: 2,
+    id: 3,
     image: Work3,
     title: "Fast Food Website",
     href:"https://sparkling-genie-b202f6.netlify.app/",
@@ -34,7 +45,7 @@ export const projectsData = [
     target:"_blank"
   },
   {
-    id: 3,
+    id: 4,
     image: Work2,
     title: "Lift",
     href:"https://marko-davidovic.github.io/Lift/",
@@ -45,7 +56,7 @@ export const projectsData = [
     target:"_blank"
   },
   {
-    id: 4,
+    id: 5,
     image: Work4,
     title: "Travel Webiste",
     href:"https://darling-axolotl-74a26f.netlify.app/",
@@ -56,7 +67,7 @@ export const projectsData = [
     target:"_blank"
   },
   {
-    id: 5,
+    id: 6,
     image: Work5,
     title: "Matrix Rain",
     href:"https://marko-davidovic.github.io/Matrix-Rain/",
@@ -67,7 +78,7 @@ export const projectsData = [
     target:"_blank"
   },
   {
-    id: 6,
+    id: 7,
     image: Work6,
     title: "Search Image app",
     href:"https://marko-davidovic.github.io/Images-Search-app/",
@@ -78,7 +89,7 @@ export const projectsData = [
     target:"_blank"
   },
   {
-    id: 7,
+    id: 8,
     image: Work7,
     title: "Music Player",
     href:"https://preeminent-lebkuchen-9d7f2c.netlify.app/",
@@ -89,7 +100,7 @@ export const projectsData = [
     target:"_blank"
   },
   {
-    id: 8,
+    id: 9,
     image: Work8,
     title: "Curency app",
     href:"https://currency-4fa8b.web.app/",
@@ -100,7 +111,7 @@ export const projectsData = [
     target:"_blank"
   },
   {
-    id: 9,
+    id: 10,
     image: Work9,
     title: "ToDo app",
     href:"https://marko-davidovic-todo-list.netlify.app/",
@@ -111,7 +122,7 @@ export const projectsData = [
     target:"_blank"
   },
   {
-    id: 10,
+    id: 11,
     image: Work10,
     title: "Nike",
     href:"https://earnest-rolypoly-540817.netlify.app/",
@@ -121,17 +132,7 @@ export const projectsData = [
     rel:"noopener noreferrer",
     target:"_blank"
   },
-  {
-    id: 11,
-    image: Work11,
-    title: "Live Chat",
-    href:"https://live-chat-frebase.netlify.app/",
-    description: "React, Firebase, Tailwind, daisyUI",
-    feature:"Google Authentication, AuthContext.Provider, Private routes ",
-    category: "FullStack",
-    rel:"noopener noreferrer",
-    target:"_blank"
-  },
+  
 ];
 
 // projects

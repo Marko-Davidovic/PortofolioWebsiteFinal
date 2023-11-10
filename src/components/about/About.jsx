@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Smith-Cv.pdf";
+import CV from "../../assets/MarkoDavidovicCV.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -17,14 +17,22 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Skilled and motivated Full Stack Developer with a strong
+            {/* Skilled and motivated Full Stack Developer with a strong
             foundation in web development technologies and a keen eye for
             design. Proficient in crafting visually appealing and user-friendly
             interfaces while ensuring optimal performance and accessibility.
             Adept at collaborating with cross-functional teams and passionate
             about staying up-to-date with the latest industry trends and
             advancements. Eager to contribute technical expertise and creativity
-            to drive impactful projects and exceed client and user expectations.
+            to drive impactful projects and exceed client and user expectations. */}
+            With a background in the dynamic realms of Sports and Hospitality, I
+            have seamlessly transitioned my passion for coding and new
+            technologies into a pursuit of excellence as a junior full-stack
+            developer. Known for my keen attention to detail and unwavering
+            motivation, I am eager to contribute my programming skills to a
+            vibrant and collaborative environment, where I can actively engage
+            in creating innovative solutions and pushing the boundaries of web
+            development
           </p>
 
           <a download="" href={CV} className="button button--flex">
