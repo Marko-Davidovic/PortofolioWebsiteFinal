@@ -52,7 +52,6 @@ const Contact = () => {
 
               <a
                 href="https://api.whatsapp.com/send/?phone=%2B17867256427&text&type=phone_number&app_absent=0, more information!"
-               
                 className="contact__button"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -109,7 +108,9 @@ const Contact = () => {
             </div>
 
             <div className="contact__form-div contact__form-area">
-              <label className="contact__form-tag">Opportunity Description</label>
+              <label className="contact__form-tag">
+                Opportunity Description
+              </label>
               <textarea
                 name="Desctiption"
                 cols={30}

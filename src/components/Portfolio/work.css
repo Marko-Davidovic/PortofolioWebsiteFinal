@@ -24,15 +24,7 @@
 .work__item:hover {
   background-color: var(--title-color);
   color: var(--container-color);
-
 }
-
-/* .work__card {
-  background-color: var(--container-color);
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 1.25rem;
-  border-radius: 1rem;
-} */
 
 .work__card {
   width: 350px;
@@ -158,28 +150,4 @@
   padding: 1rem;
   border-radius: 1rem;
   margin-bottom: var(--mb-1);
-} 
-
-/* Add styles for the Expand button */
-/* .work__expand-button {
-  background-color: var(--title-color);
-  color: var(--container-color);
-  padding: 0.25rem 0.5rem;
-  border-radius: 0.5rem;
-  font-weight: var(--font-medium);
-  cursor: pointer;
-  text-transform: capitalize;
-  margin-top: var(--mb-1);
 }
-
-.work__expand-button:hover {
-  background-color: var(--container-color);
-  color: var(--title-color);
-}
-
-/* Add styles for the expanded text */
-/*.work__expand-text {
-  margin-top: var(--mb-1);
-  font-size: var(--normal-font-size);
-  color: var(--text-color);
-} */
