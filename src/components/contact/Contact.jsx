@@ -67,7 +67,7 @@ const Contact = () => {
               <h3 className="contact__card-title">LinkedIn</h3>
               <span className="contact__card-data">
                 {" "}
-                https://www.linkedin.com/in/marko-davidovic-209a601a3/
+               Message me 
               </span>
 
               <a

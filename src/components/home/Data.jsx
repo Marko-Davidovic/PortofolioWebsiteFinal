@@ -57,8 +57,12 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Full Stack Developer</h3>
       <p className="home__description">
-        I'm creative Full Stack Developer based in Miami, and I'm very
-        passionate and dedicated to my work.
+        {/* I'm creative Full Stack Developer based in Miami, and I'm very
+        passionate and dedicated to my work. */}
+        Hello there. I’m a Full Stack Developer based in Miami, driven by a deep passion and
+        committed to delivering meaningful results. I prioritize creativity in
+        the digital realm, ensuring that every line of code contributes to a
+        seamless and engaging user experience.
       </p>
 
       <a href="#contact" className="button button--flex">
