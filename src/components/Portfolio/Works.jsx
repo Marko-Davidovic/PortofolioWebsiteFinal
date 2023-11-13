@@ -32,7 +32,7 @@ const Projects = () => {
   return (
     <div>
       {/* projects nav */}
-      <div class="work__filters">
+      <div className="work__filters">
         {projectsNav.map((item, index) => {
           return (
             <span
