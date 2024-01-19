@@ -9,8 +9,21 @@ import Work8 from "../../assets/work8.png";
 import Work9 from "../../assets/work9.png";
 import Work10 from "../../assets/work10.png";
 import Work11 from "../../assets/work11.png";
+import Work12 from "../../assets/work12.png";
+
 
 export const projectsData = [
+  {
+    id: 12,
+    image: Work12,
+    title: "Mobile store Full Stack",
+    href: "https://mobile-phone-store.vercel.app",
+    description: "React, Redux, Node, Express, MongoBD, JWT, ",
+    feature: "Dashboard, Admin, User, Payment, Stripe",
+    category: "FullStack",
+    rel: "noopener noreferrer",
+    target: "_blank",
+  },
   {
     id: 1,
     image: Work11,
@@ -134,6 +147,7 @@ export const projectsData = [
     rel: "noopener noreferrer",
     target: "_blank",
   },
+  
 ];
 
 // projects
