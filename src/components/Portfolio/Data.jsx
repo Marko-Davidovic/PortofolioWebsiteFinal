@@ -10,9 +10,22 @@ import Work9 from "../../assets/work9.png";
 import Work10 from "../../assets/work10.png";
 import Work11 from "../../assets/work11.png";
 import Work12 from "../../assets/work12.png";
+import Work13 from "../../assets/work12.png";
+
 
 
 export const projectsData = [
+  {
+    id: 13,
+    image: Work13,
+    title: "Amazon Website",
+    href: "https://amazon-react-md.netlify.app",
+    description: "React, Redux ",
+    feature: "Shopping Cart",
+    category: "design",
+    rel: "noopener noreferrer",
+    target: "_blank",
+  },
   {
     id: 12,
     image: Work12,
