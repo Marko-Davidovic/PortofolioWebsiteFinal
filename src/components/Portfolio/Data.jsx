@@ -10,7 +10,7 @@ import Work9 from "../../assets/work9.png";
 import Work10 from "../../assets/work10.png";
 import Work11 from "../../assets/work11.png";
 import Work12 from "../../assets/work12.png";
-import Work13 from "../../assets/work12.png";
+import Work13 from "../../assets/work13.png";
 
 
 
